@@ -1,0 +1,2 @@
+spec/support/*.csv
+.byebug_history
